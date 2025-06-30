@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Cargando...</p>
+<p align="left">Hola, soy Maite, desarrolladora web y gran interesada por el mundo tecnológico en todos sus aspectos. El impacto que tiene la tecnología en la sociedad, desde la implementación de un sistema gestor de un comercio hasta el análisis de grandes volúmenes de datos para la toma de decisiones estratégicas, me parece fascinante, cómo de una idea surgen soluciones a problemas cotidianos que en otra época serían impensables. Precisamente esto, la capacidad para dar forma a la realidad, es lo que me impulsa a dar lo mejor de mí en cada proyecto, mejorar y asumir retos que, aunque sean complejos, una vez superados refuerzan el compromiso con mi trabajo y me ofrecen la oportunidad tanto de crecer como de desafiar nuevos problemas que aparentemente no tienen una solución sencilla.</p>
 
 ###
 
@@ -10,6 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maigcorrea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maigcorrea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Mi stack actual</h2>
+
+###
+
+<p align="left">Soy consciente de que, para ser capaz de dar forma a todas las oportunidades que se me presentan, el aprendizaje continuo es clave, especialmente en un sector en constante evolución, por lo que siempre voy a formarme, tanto para reforzar los conocimientos actuales, como para aprender nuevas disciplinas y ampliar mi stack.</p>
 
 ###
 
@@ -54,5 +62,25 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maigcorrea/maigcorrea/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maigcorrea/maigcorrea/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<p align="left">Cargando sección...</p>
+
+###
+
+<p align="left">Espero que mis repositorios te sean de interés, y, si quieres aportar algo, ya sean mejoras, propuestas, dudas, o simplemente te apetece charlar un rato sobre código, siempre puedes contactarme a través de mis redes sociales.</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/ana-maite-garcía-correa-012930208" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anamaitegarciacorrea@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
 ###
