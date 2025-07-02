@@ -13,6 +13,12 @@
 
 ###
 
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/736x/c5/65/4b/c5654b2017f996c1af28cc12c73f0a5b.jpg"  />
+</div>
+
+###
+
 <h2 align="left">Mi stack actual</h2>
 
 ###
