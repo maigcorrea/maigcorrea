@@ -99,4 +99,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maigcorrea/count.svg?"  />
+</div>
+
+###
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
