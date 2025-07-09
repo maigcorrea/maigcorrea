@@ -101,8 +101,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/maigcorrea/count.svg?"  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=maigcorrea&&style=flat-square" align="center" />
+</div>  
 
 ###
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
