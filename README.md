@@ -1,4 +1,4 @@
-<h1 align="left">Hola! Bienvenid@ a mi perfil</h1>
+<h1 align="left">👩🏻‍💻Hola! Bienvenid@ a mi perfil</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Mi stack actual</h2>
+<h2 align="left">🔧Mi stack actual</h2>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<p align="left">Espero que mis repositorios te sean de interés, y, si quieres aportar algo, ya sean mejoras, propuestas, dudas, o simplemente te apetece charlar un rato sobre código, siempre puedes contactarme a través de mi email o redes sociales.</p>
+<p align="left">🎯Espero que mis repositorios te sean de interés, y, si quieres aportar algo, ya sean mejoras, propuestas, dudas, o simplemente te apetece charlar un rato sobre código, siempre puedes contactarme a través de mi email o redes sociales.</p>
 
 ###
 
