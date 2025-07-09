@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">🔧Mi stack actual</h2>
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🔧%20Mi%20stack%20actual&fontSize=40&color=0:8871e5,100:b678c4)
 
 ###
 
