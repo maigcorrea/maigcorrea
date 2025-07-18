@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hola, soy Maite, desarrolladora web y gran interesada por el mundo tecnológico en todos sus aspectos. El impacto que tiene la tecnología en la sociedad, desde la implementación de un sistema gestor de un comercio hasta el análisis de grandes volúmenes de datos para la toma de decisiones estratégicas, me parece fascinante, cómo de una idea surgen soluciones a problemas cotidianos que en otra época serían impensables. Precisamente esto, la capacidad para dar forma a la realidad, es lo que me impulsa a dar lo mejor de mí en cada proyecto, mejorar y asumir retos que, aunque sean complejos, una vez superados refuerzan el compromiso con mi trabajo y me ofrecen la oportunidad tanto de crecer como de desafiar nuevos problemas que aparentemente no tienen una solución sencilla.</p>
+<p align="left">Hola, soy Maite, desarrolladora web fullstack y gran interesada por el mundo tecnológico en todos sus aspectos🌐. El impacto que tiene la tecnología en la sociedad, desde la implementación de un sistema gestor de un comercio hasta el análisis de grandes volúmenes de datos para la toma de decisiones estratégicas, me parece fascinante, cómo de una idea surgen soluciones a problemas cotidianos que en otra época serían impensables.</p>
 
 ###
 
@@ -21,6 +21,9 @@
 
 ###
 
+<p>Precisamente esto, la capacidad para dar forma a la realidad✨, es lo que me impulsa a dar lo mejor de mí en cada proyecto, mejorar y asumir retos que, aunque sean complejos, una vez superados refuerzan el compromiso con mi trabajo y me ofrecen la oportunidad tanto de crecer como de desafiar nuevos problemas que aparentemente no tienen una solución sencilla🎯.</p>
+
+###
 
 <h2 align="left">🔧Mi stack actual</h2>
 
