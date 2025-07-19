@@ -33,7 +33,7 @@
 
 <p>Actualmente, trabajo tanto con tecnologías centradas en backend como en frontend✨, lo que me permite total flexibilidad a la hora de desempeñar el desarrollo de software, tanto en la parte creativa🌌, en la que me especializo mediante el uso de JavaScript, en concreto react, y otras tecnologías como tailwind y GSAP para los estilos e interactividad , como en la parte de desarrollo🧩, en la que me enfoco en garantizar los mejores resultados y eficiencia, siempre teniendo en cuenta el tipo de aplicación a desarrollar, escalabilidad, volumen de datos, etc, con el fin de escoger las tecnologías adecuadas para cada caso, ya sean nest.js, express, Python, php, etc. </p>
  
-<p>** Y lo más importante, si el cliente quiere una silla, tendrá una silla🪑 **</p>
+**Y lo más importante, si el cliente quiere una silla, tendrá una silla🪑**
 
 ###
 
