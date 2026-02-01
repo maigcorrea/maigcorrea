@@ -93,7 +93,6 @@
 
 <a href="https://hashtag-generator-elvq.onrender.com" target="_blank"><p align="left">Pincha aquí para ver mi proyecto más reciente</p></a>
 
-https://portfolio-hazel-alpha-13.vercel.app/
 ###
 
 <p align="left">🎯Espero que mis repositorios te sean de interés, y, si quieres aportar algo, ya sean mejoras, propuestas, dudas, o simplemente te apetece charlar un rato sobre código, siempre puedes contactarme a través de mi email o redes sociales.</p>
